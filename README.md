@@ -1,3 +1,5 @@
+___Until the OPK reaches 1.0, it is intended for developers only. See the [OPK Roadmap to 1.0](https://github.com/open-eio/Open-Pipe-Kit/issues/1).___
+
 ## What is the Open Pipe Kit?
 The Open Pipe Kit (OPK) is the missing plumbing between sensors and databases that will empower thousands of data journalists and civic hackers to collect data without needing a programmer's assistance or being locked into one data platform from a proprietary turn-key solution. 
 
