@@ -44,7 +44,7 @@ The Open Pipe Kit is a system designed to meet this need, based on a Raspberry P
 
 ## Architecture
 
-
+```
    [Thing]
      ^
      |
@@ -54,5 +54,5 @@ The Open Pipe Kit is a system designed to meet this need, based on a Raspberry P
   [Reservoir]
 
 [NetworkSquid] <-> [HTTP API] <-> [Apps]
-
+```
 Command line inspired by git. Plugin architecture more convention than framework. Program them in any language.
