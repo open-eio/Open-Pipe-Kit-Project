@@ -42,3 +42,17 @@ We believe it is vital for people in the fields of sensor journalism, environmen
 
 The Open Pipe Kit is a system designed to meet this need, based on a Raspberry Pi and Node.js.  Users of OPK will be able to collect data from sensors and store it either locally (on microSD) or remotely on a server of their own choosing. 
 
+## Architecture
+
+
+   [Thing]
+     ^
+     |
+   [Pipe] <-> [HTTP API] <-> [Apps]
+     |
+     V
+  [Reservoir]
+
+[NetworkSquid] <-> [HTTP API] <-> [Apps]
+
+Command line inspired by git. Plugin architecture more convention than framework. Program them in any language.
