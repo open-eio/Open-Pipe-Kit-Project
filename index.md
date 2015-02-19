@@ -45,3 +45,7 @@ GLOBAL OPTIONS:
    --version, -v        print the version
 ```
 
+### Domoticz
+http://www.domoticz.com/
+
+### Something else I've seen...
