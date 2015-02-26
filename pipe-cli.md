@@ -26,9 +26,9 @@ $ pipe pull grovepi_temp_pro
 23
 $ pipe push phant "42"
 Pushed 42 to phant at https://data.sparkfun.com/streams/g6DJEnagnohd3pVnY1j5
-$ # With a command line trick, we combine the two.
-$ pipe push phant `pipe pull grovepi_temp_pro`
-Pushed 23 to phant at https://data.sparkfun.com/streams/g6DJEnagnohd3pVnY1j5
+$ pipe connect global grovepi_temp_pro
+$ pipe pump
+Pushed 23   to phant at https://data.sparkfun.com/streams/g6DJEnagnohd3pVnY1j5
 $
 $
 $
@@ -59,3 +59,11 @@ Pushed 23,23,24,23 to phant at https://data.sparkfun.com/streams/wpKwzOZaVotqOz0
 $
 $
 ```
+i have two sensors datas
+have also to reserves
+ups two
+and for each sensor a different pump interval
+
+goal: serve the most complicated use case while also serving the most simple use case in an easy to use command
+
+creating minimal viable complex example
