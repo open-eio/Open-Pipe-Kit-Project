@@ -7,7 +7,9 @@ ___Until the OPK reaches 1.0, it is intended for developers only. See the [OPK R
 ## OPK Drivers
 Name | Type | Status | Link | Description
 --- | --- | --- | --- | --- | ---
-simpleserial | sensor | prototype |  https://github.com/open-eio/ThingPipe-SimpleSerial | Pipe sensor driver that gets values between `x` and `x` found over serial | 
-phant | database | prototype |  https://github.com/open-eio/ThingPipe-Phant | Pipe database driver that sends data to a Phant service like http://data.sparkfun.com. [Phant project page here](http://phant.io/)
+simpleserial | sensor | prototype |  https://github.com/open-eio/opk-simple-serial-cli | Pipe sensor driver that gets values between `x` and `x` found over serial | 
+phant | database | prototype |  https://github.com/open-eio/opk-phant-cli | Pipe database driver that sends data to a Phant service like http://data.sparkfun.com. [Phant project page here](http://phant.io/)
+temper1 | sensor | prototype | http://github.com/open-eio/opk-temper1-cli | For the temper1 USB temperature sensor
+
 
 
