@@ -12,4 +12,6 @@ phant | database | prototype |  https://github.com/open-eio/opk-phant-cli | Pipe
 temper1 | sensor | prototype | http://github.com/open-eio/opk-temper1-cli | For the temper1 USB temperature sensor
 
 
+## For Developers
 
+The OPK isn't a framework, it doesn't have plugins. It's the opinion that we should build drivers for sensors as Command Line Interfaces (cli) in any language we want. Follow a couple of well thought out conventions (like pulling data from a sensor should be the `pull` command) and amazing things can be built on top of it.
