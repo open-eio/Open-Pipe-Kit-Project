@@ -1,5 +1,5 @@
 
-# How we got where we are
+# How we got here
 
 Our goal is to develop tools that lower the barrier to interacting with these drivers. Because there is no universal driver for all sensors and all databases, we have to develop a standard for drivers so we can then build a Graphical User Interfaces that empowers people to use sensors and databases. By standard we don't just mean a specification, we mean something that is widely adopted. I do not believe it is enough to just depend on the good will of programmers by saying "Write a plugin for a sensor this way so people who don't know how to program can use it!" I believe we need a symbiotic medium where the developers write drivers according to a specification because it makes their own work easier. Empowering nonprogrammers should be a side effect.
 
