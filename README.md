@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/open-eio/Open-Pipe-Kit-Project.png?label=ready&title=Ready)](https://waffle.io/open-eio/Open-Pipe-Kit-Project)
 ## About
 The Open Pipe Kit (OPK) is the missing plumbing between sensors and databases that will empower thousands of data journalists and civic hackers to collect data without needing a programmer's assistance or being locked into one data platform from a proprietary turn-key solution. 
 
