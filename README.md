@@ -16,3 +16,8 @@ simpleserial | sensor | prototype |  https://github.com/open-eio/opk-simple-seri
 phant | database | prototype |  https://github.com/open-eio/opk-phant-cli | Pipe database driver that sends data to a Phant service like http://data.sparkfun.com. [Phant project page here](http://phant.io/)
 temper1 | sensor | prototype | http://github.com/open-eio/opk-temper1-cli | For the temper1 USB temperature sensor
 
+## Recommended Hardware
+
+OPK will run on Linux-capable devices.  So far, most of our development has focused on the Raspberry Pi; but the approach should work on a variety of Linux platforms (including: your laptop, the Beagle Bone Black, etc) with slight modifications.  
+
+We're keeping a list of 'recommended hardware' [here](https://github.com/open-eio/Open-Pipe-Kit-Project/wiki/Recommended-Hardware).
